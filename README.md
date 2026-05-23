@@ -40,7 +40,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff )
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=ffffff )
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=React&logoColor=000000 )
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=ffffff )
 
 ### Tools: 
