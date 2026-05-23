@@ -56,4 +56,4 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24.svg?style=flat&logo=expo&logoColor=#D04A37)
 
 ### 🌐 Networking:
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=expo&logo=cisco&logoColor=black)
